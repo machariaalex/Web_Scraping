@@ -86,9 +86,7 @@ login_linkedin(linkedin_username, linkedin_password)
 
 # List of LinkedIn profile URLs to scrape
 profile_urls = [
-    'https://www.linkedin.com/in/alex-ndegwa/',
-    'https://www.linkedin.com/in/esther-wairobi-123b61213/',
-    'https://www.linkedin.com/in/dennis-oprah/'
+    
 ]
 
 # Loop through each profile URL and extract information
